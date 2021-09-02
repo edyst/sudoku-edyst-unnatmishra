@@ -98,8 +98,8 @@ p.incorrect {
     color: red !important;
 }
 p.modified {
-    background-color: rgb(129, 194, 224);
+    background-color: rgb(91, 150, 177);
 }
 p.dup {
-    background-color: #99badd !important;
+    background-color: #789abe !important;
 }
